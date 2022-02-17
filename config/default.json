@@ -1,0 +1,16 @@
+{
+  "Node": {
+    "server": {
+      "port": 3000
+    }
+  },
+  "Logger": {
+    "console": {
+      "name": "console.debug",
+      "level": "debug",
+      "handleExceptions": false,
+      "json": true,
+      "colorize": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "test node docker",
+  "main": "index.js",
+  "scripts": {
+    "start-api": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "config": "^3.3.7",
+    "express": "^4.16.1",
+    "winston": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudplaydb/test-node.git"
+  },
+  "author": "jerilonline@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudplaydb/test-node/issues"
+  },
+  "homepage": "https://github.com/cloudplaydb/test-node#readme"
+}

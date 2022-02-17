@@ -1,0 +1,8 @@
+{
+  "Weather API": {
+    "Objective": {
+      "1: ": "To consume an external weather api to get real time weather and news",
+      "2: ": "To spike on Node.js, AWS, Kubernetes, Docker, Gitlab Container registry and Concourse CI/CD"
+    }
+  }
+}
